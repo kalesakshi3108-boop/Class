@@ -1,1 +1,1 @@
-# Class
+print("hello")
